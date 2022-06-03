@@ -1,4 +1,4 @@
-## 👨‍💻 WILLIAM DOUGLAS DA SILVA DOS SANTOS <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## 👨‍💻 WILLIAM DOUGLAS DA SILVA DOS SANTOS
 
 <img align="right" alt="GIF" height="100%" width="25%" src="https://static.wikia.nocookie.net/minecraftcreepypasta/images/b/b6/5-asciiguy-red.gif/revision/latest?cb=20180523023848" />
 
@@ -18,7 +18,6 @@
 <a href="https://github.com/william-douglas-brasil"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://www.linkedin.com/in/william-douglas-587abb123/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>	
 <a href="https://www.instagram.com/willian.douglas1992/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>	
-<a href="https://twitter.com/william72867275"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
 ### Linguagens de programação
